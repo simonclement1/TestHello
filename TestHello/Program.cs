@@ -10,6 +10,7 @@ namespace TestHello
     {
         static void Main(string[] args)
         {
+            // this has been edited on Simon'c dev pc at work
             System.Console.WriteLine("Hello World !");
         }
     }
